@@ -28,7 +28,7 @@ Pomochron是一款使用Tauri开发的跨平台番茄钟应用，旨在帮助您
 
 要安装Pomochron，请按照以下步骤进行操作：
 
-1. 克隆仓库：`git clone https://github.com/your-username/pomochron.git`
+1. 克隆仓库：`git clone https://github.com/dduutt/pomochron.git`
 2. 进入项目目录：`cd pomochron`
 3. 安装依赖：`yarn`
 4. 开发应用程序：`yarn tauri dev`
