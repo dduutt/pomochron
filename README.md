@@ -18,7 +18,7 @@ Pomochron是一款使用Tauri开发的跨平台番茄钟应用，旨在帮助您
 
 ## 特点
 
-- **番茄钟工作法**：将工作划分为专注的时间段（称为"番茄钟"），并结合短暂的休息时间，提高工作效率。
+- **番茄钟工作法**：将工作时间划分为专注和休息时间段，专注时间结束后进行短暂休息以提高工作效率。
 - **直观界面**：Pomochron提供简洁直观的界面，使您能够轻松跟踪番茄钟和管理时间。
 - **灵活定制**：根据您的工作习惯和需求，自定义番茄钟和休息时间的持续时间。
 - **智能提醒**：Pomochron会智能提醒您何时开始和结束每个番茄钟周期，帮助您保持专注。
@@ -26,10 +26,10 @@ Pomochron是一款使用Tauri开发的跨平台番茄钟应用，旨在帮助您
 
 ## 安装
 
-从[releases](/releases/download/latest/pomochron_x64.msi)处下载应用程序
+- **Windows平台使用**：从[releases](../../releases/download/latest/pomochron_x64.msi)处下载应用程序
 
 
-如果要在其他平台使用，请自行编译安装Pomochron，请按照以下步骤进行操作：
+- **其他平台使用**：请按照以下步骤进行操作自行编译安装Pomochron
 
 1. 克隆仓库：`git clone https://github.com/dduutt/pomochron.git`
 2. 进入项目目录：`cd pomochron`
