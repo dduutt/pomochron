@@ -45,7 +45,7 @@ export const useTimerStore = defineStore('timer', {
             return `${state.focusCount}/${state.settings.rounds}`;
         },
         circular(state) {
-            return state.seconds ? (state.value - state.seconds) / state.value * 100 : 0
+            return state.seconds ? ((state.value - state.seconds) / state.value * 100) | 0 : 0
         },
     },
     actions: {
