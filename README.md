@@ -1,11 +1,11 @@
 <div align="center">
-  <img alt="Pomotroid" src="src/assets/logo.png" width="200px">
+  <img alt="Pomotroid" src="https://cdn.jsdelivr.net/gh/dduutt/pomochron/src/assets/logo.png" width="200px">
 </div>
 
 <div  align="center">
- <img alt="Pomotroid" src="images/home.png" width="200px">
-  <img alt="Pomotroid" src="images/settings.png" width="200px">
-   <img alt="Pomotroid" src="images/about.png" width="200px">
+ <img alt="Pomotroid" src="https://cdn.jsdelivr.net/gh/dduutt/pomochron/images/home.png" width="200px">
+  <img alt="Pomotroid" src="https://cdn.jsdelivr.net/gh/dduutt/pomochron/images/settings.png" width="200px">
+   <img alt="Pomotroid" src="https://cdn.jsdelivr.net/gh/dduutt/pomochron/images/about.png" width="200px">
 </div>
 
 # Pomochron
