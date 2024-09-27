@@ -56,4 +56,5 @@ jobs:
           releaseDraft: false
           prerelease: false
           publish: true
+          projectPath: .
           
