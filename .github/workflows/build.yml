@@ -29,6 +29,9 @@ jobs:
       - name: Rust setup
         uses: dtolnay/rust-toolchain@stable
 
+      - name: Update dependencies
+        run: cargo update
+
       - name: Rust cache
         uses: swatinem/rust-cache@v2
         with:
@@ -56,5 +59,4 @@ jobs:
           releaseDraft: false
           prerelease: false
           publish: true
-          projectPath: .
           
